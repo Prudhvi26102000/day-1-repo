@@ -1,0 +1,10 @@
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\AgeGreaterThan18OrNot\bin\Debug\netcoreapp3.1\AgeGreaterThan18OrNot.exe
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\AgeGreaterThan18OrNot\bin\Debug\netcoreapp3.1\AgeGreaterThan18OrNot.deps.json
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\AgeGreaterThan18OrNot\bin\Debug\netcoreapp3.1\AgeGreaterThan18OrNot.runtimeconfig.json
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\AgeGreaterThan18OrNot\bin\Debug\netcoreapp3.1\AgeGreaterThan18OrNot.runtimeconfig.dev.json
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\AgeGreaterThan18OrNot\bin\Debug\netcoreapp3.1\AgeGreaterThan18OrNot.dll
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\AgeGreaterThan18OrNot\bin\Debug\netcoreapp3.1\AgeGreaterThan18OrNot.pdb
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\AgeGreaterThan18OrNot\obj\Debug\netcoreapp3.1\AgeGreaterThan18OrNot.AssemblyInfoInputs.cache
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\AgeGreaterThan18OrNot\obj\Debug\netcoreapp3.1\AgeGreaterThan18OrNot.AssemblyInfo.cs
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\AgeGreaterThan18OrNot\obj\Debug\netcoreapp3.1\AgeGreaterThan18OrNot.dll
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\AgeGreaterThan18OrNot\obj\Debug\netcoreapp3.1\AgeGreaterThan18OrNot.pdb

@@ -1,0 +1,10 @@
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\GreatestOf3Numbers\bin\Debug\netcoreapp3.1\GreatestOf3Numbers.exe
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\GreatestOf3Numbers\bin\Debug\netcoreapp3.1\GreatestOf3Numbers.deps.json
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\GreatestOf3Numbers\bin\Debug\netcoreapp3.1\GreatestOf3Numbers.runtimeconfig.json
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\GreatestOf3Numbers\bin\Debug\netcoreapp3.1\GreatestOf3Numbers.runtimeconfig.dev.json
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\GreatestOf3Numbers\bin\Debug\netcoreapp3.1\GreatestOf3Numbers.dll
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\GreatestOf3Numbers\bin\Debug\netcoreapp3.1\GreatestOf3Numbers.pdb
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\GreatestOf3Numbers\obj\Debug\netcoreapp3.1\GreatestOf3Numbers.AssemblyInfoInputs.cache
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\GreatestOf3Numbers\obj\Debug\netcoreapp3.1\GreatestOf3Numbers.AssemblyInfo.cs
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\GreatestOf3Numbers\obj\Debug\netcoreapp3.1\GreatestOf3Numbers.dll
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\GreatestOf3Numbers\obj\Debug\netcoreapp3.1\GreatestOf3Numbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\Firstprogram\bin\Debug\netcoreapp3.1\Firstprogram.exe
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\Firstprogram\bin\Debug\netcoreapp3.1\Firstprogram.deps.json
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\Firstprogram\bin\Debug\netcoreapp3.1\Firstprogram.runtimeconfig.json
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\Firstprogram\bin\Debug\netcoreapp3.1\Firstprogram.runtimeconfig.dev.json
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\Firstprogram\bin\Debug\netcoreapp3.1\Firstprogram.dll
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\Firstprogram\bin\Debug\netcoreapp3.1\Firstprogram.pdb
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\Firstprogram\obj\Debug\netcoreapp3.1\Firstprogram.csprojAssemblyReference.cache
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\Firstprogram\obj\Debug\netcoreapp3.1\Firstprogram.AssemblyInfoInputs.cache
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\Firstprogram\obj\Debug\netcoreapp3.1\Firstprogram.AssemblyInfo.cs
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\Firstprogram\obj\Debug\netcoreapp3.1\Firstprogram.dll
+C:\Users\Prudhvi\OneDrive\Desktop\gits\C#\Firstprogram\obj\Debug\netcoreapp3.1\Firstprogram.pdb
