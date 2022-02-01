@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\AgeGreaterThan18OrNot\\AgeGreaterThan18OrNot.csproj",
-      "projectName": "AgeGreaterThan18OrNot",
-      "projectPath": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\AgeGreaterThan18OrNot\\AgeGreaterThan18OrNot.csproj",
+      "projectUniqueName": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\SumOfNaturalNumbers\\SumOfNaturalNumbers.csproj",
+      "projectName": "SumOfNaturalNumbers",
+      "projectPath": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\SumOfNaturalNumbers\\SumOfNaturalNumbers.csproj",
       "packagesPath": "C:\\Users\\Prudhvi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\AgeGreaterThan18OrNot\\obj\\",
+      "outputPath": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\SumOfNaturalNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

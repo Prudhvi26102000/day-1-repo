@@ -1,0 +1,11 @@
+C:\Users\Prudhvi\OneDrive\Desktop\gits\SumOfNaturalNumbers\bin\Debug\netcoreapp3.1\SumOfNaturalNumbers.exe
+C:\Users\Prudhvi\OneDrive\Desktop\gits\SumOfNaturalNumbers\bin\Debug\netcoreapp3.1\SumOfNaturalNumbers.deps.json
+C:\Users\Prudhvi\OneDrive\Desktop\gits\SumOfNaturalNumbers\bin\Debug\netcoreapp3.1\SumOfNaturalNumbers.runtimeconfig.json
+C:\Users\Prudhvi\OneDrive\Desktop\gits\SumOfNaturalNumbers\bin\Debug\netcoreapp3.1\SumOfNaturalNumbers.runtimeconfig.dev.json
+C:\Users\Prudhvi\OneDrive\Desktop\gits\SumOfNaturalNumbers\bin\Debug\netcoreapp3.1\SumOfNaturalNumbers.dll
+C:\Users\Prudhvi\OneDrive\Desktop\gits\SumOfNaturalNumbers\bin\Debug\netcoreapp3.1\SumOfNaturalNumbers.pdb
+C:\Users\Prudhvi\OneDrive\Desktop\gits\SumOfNaturalNumbers\obj\Debug\netcoreapp3.1\SumOfNaturalNumbers.csprojAssemblyReference.cache
+C:\Users\Prudhvi\OneDrive\Desktop\gits\SumOfNaturalNumbers\obj\Debug\netcoreapp3.1\SumOfNaturalNumbers.AssemblyInfoInputs.cache
+C:\Users\Prudhvi\OneDrive\Desktop\gits\SumOfNaturalNumbers\obj\Debug\netcoreapp3.1\SumOfNaturalNumbers.AssemblyInfo.cs
+C:\Users\Prudhvi\OneDrive\Desktop\gits\SumOfNaturalNumbers\obj\Debug\netcoreapp3.1\SumOfNaturalNumbers.dll
+C:\Users\Prudhvi\OneDrive\Desktop\gits\SumOfNaturalNumbers\obj\Debug\netcoreapp3.1\SumOfNaturalNumbers.pdb

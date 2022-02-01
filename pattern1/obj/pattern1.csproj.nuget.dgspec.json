@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\AgeGreaterThan18OrNot\\AgeGreaterThan18OrNot.csproj": {}
+    "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\pattern1\\pattern1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\AgeGreaterThan18OrNot\\AgeGreaterThan18OrNot.csproj": {
+    "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\pattern1\\pattern1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\AgeGreaterThan18OrNot\\AgeGreaterThan18OrNot.csproj",
-        "projectName": "AgeGreaterThan18OrNot",
-        "projectPath": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\AgeGreaterThan18OrNot\\AgeGreaterThan18OrNot.csproj",
+        "projectUniqueName": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\pattern1\\pattern1.csproj",
+        "projectName": "pattern1",
+        "projectPath": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\pattern1\\pattern1.csproj",
         "packagesPath": "C:\\Users\\Prudhvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\AgeGreaterThan18OrNot\\obj\\",
+        "outputPath": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\pattern1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

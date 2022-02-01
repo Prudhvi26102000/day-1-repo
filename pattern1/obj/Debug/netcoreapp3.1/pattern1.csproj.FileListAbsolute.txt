@@ -1,0 +1,10 @@
+C:\Users\Prudhvi\OneDrive\Desktop\gits\pattern1\bin\Debug\netcoreapp3.1\pattern1.exe
+C:\Users\Prudhvi\OneDrive\Desktop\gits\pattern1\bin\Debug\netcoreapp3.1\pattern1.deps.json
+C:\Users\Prudhvi\OneDrive\Desktop\gits\pattern1\bin\Debug\netcoreapp3.1\pattern1.runtimeconfig.json
+C:\Users\Prudhvi\OneDrive\Desktop\gits\pattern1\bin\Debug\netcoreapp3.1\pattern1.runtimeconfig.dev.json
+C:\Users\Prudhvi\OneDrive\Desktop\gits\pattern1\bin\Debug\netcoreapp3.1\pattern1.dll
+C:\Users\Prudhvi\OneDrive\Desktop\gits\pattern1\bin\Debug\netcoreapp3.1\pattern1.pdb
+C:\Users\Prudhvi\OneDrive\Desktop\gits\pattern1\obj\Debug\netcoreapp3.1\pattern1.AssemblyInfoInputs.cache
+C:\Users\Prudhvi\OneDrive\Desktop\gits\pattern1\obj\Debug\netcoreapp3.1\pattern1.AssemblyInfo.cs
+C:\Users\Prudhvi\OneDrive\Desktop\gits\pattern1\obj\Debug\netcoreapp3.1\pattern1.dll
+C:\Users\Prudhvi\OneDrive\Desktop\gits\pattern1\obj\Debug\netcoreapp3.1\pattern1.pdb
