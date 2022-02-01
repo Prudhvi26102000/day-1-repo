@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\Firstprogram\\Firstprogram.csproj": {}
+    "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\2ndLargestElementInTheArray\\2ndLargestElementInTheArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\Firstprogram\\Firstprogram.csproj": {
+    "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\2ndLargestElementInTheArray\\2ndLargestElementInTheArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\Firstprogram\\Firstprogram.csproj",
-        "projectName": "Firstprogram",
-        "projectPath": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\Firstprogram\\Firstprogram.csproj",
+        "projectUniqueName": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\2ndLargestElementInTheArray\\2ndLargestElementInTheArray.csproj",
+        "projectName": "2ndLargestElementInTheArray",
+        "projectPath": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\2ndLargestElementInTheArray\\2ndLargestElementInTheArray.csproj",
         "packagesPath": "C:\\Users\\Prudhvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\Firstprogram\\obj\\",
+        "outputPath": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\2ndLargestElementInTheArray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

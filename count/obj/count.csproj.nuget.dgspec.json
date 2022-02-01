@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\Firstprogram\\Firstprogram.csproj": {}
+    "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\count\\count.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\Firstprogram\\Firstprogram.csproj": {
+    "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\count\\count.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\Firstprogram\\Firstprogram.csproj",
-        "projectName": "Firstprogram",
-        "projectPath": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\Firstprogram\\Firstprogram.csproj",
+        "projectUniqueName": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\count\\count.csproj",
+        "projectName": "count",
+        "projectPath": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\count\\count.csproj",
         "packagesPath": "C:\\Users\\Prudhvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\Firstprogram\\obj\\",
+        "outputPath": "C:\\Users\\Prudhvi\\OneDrive\\Desktop\\gits\\count\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
