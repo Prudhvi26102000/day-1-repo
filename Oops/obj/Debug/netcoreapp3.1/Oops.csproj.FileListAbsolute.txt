@@ -1,0 +1,11 @@
+C:\Users\Prudhvi\source\repos\Oops\bin\Debug\netcoreapp3.1\Oops.exe
+C:\Users\Prudhvi\source\repos\Oops\bin\Debug\netcoreapp3.1\Oops.deps.json
+C:\Users\Prudhvi\source\repos\Oops\bin\Debug\netcoreapp3.1\Oops.runtimeconfig.json
+C:\Users\Prudhvi\source\repos\Oops\bin\Debug\netcoreapp3.1\Oops.runtimeconfig.dev.json
+C:\Users\Prudhvi\source\repos\Oops\bin\Debug\netcoreapp3.1\Oops.dll
+C:\Users\Prudhvi\source\repos\Oops\bin\Debug\netcoreapp3.1\Oops.pdb
+C:\Users\Prudhvi\source\repos\Oops\obj\Debug\netcoreapp3.1\Oops.csprojAssemblyReference.cache
+C:\Users\Prudhvi\source\repos\Oops\obj\Debug\netcoreapp3.1\Oops.AssemblyInfoInputs.cache
+C:\Users\Prudhvi\source\repos\Oops\obj\Debug\netcoreapp3.1\Oops.AssemblyInfo.cs
+C:\Users\Prudhvi\source\repos\Oops\obj\Debug\netcoreapp3.1\Oops.dll
+C:\Users\Prudhvi\source\repos\Oops\obj\Debug\netcoreapp3.1\Oops.pdb
