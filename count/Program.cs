@@ -4,7 +4,7 @@ namespace count
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             int c = 0;
             Console.WriteLine("Enter length of the array");

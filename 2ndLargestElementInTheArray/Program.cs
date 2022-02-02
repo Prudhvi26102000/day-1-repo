@@ -23,7 +23,7 @@ namespace _2ndLargestElementInTheArray
             }
             for(int i=0;i<n;i++)
             {
-                if(a[i]>l2 && a[i]!=l1)
+                if (a[i] > l2 && a[i] != l1)
                 {
                     l2 = a[i];
                 }
