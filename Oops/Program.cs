@@ -2,6 +2,8 @@
 
 namespace Oops
 {
+    public class Student{
+    }
     public class Person
     {
         public String name;
@@ -29,6 +31,8 @@ namespace Oops
             var e= new Encapsulation();
             e.SetBirthDate(new DateTime(1992, 1, 1));
             Console.WriteLine(e.GetBirthDate());
+            //Inheritance
+
         }
     }
 }
