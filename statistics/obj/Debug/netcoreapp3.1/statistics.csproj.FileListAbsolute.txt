@@ -1,0 +1,11 @@
+D:\C#\gits\statistics\bin\Debug\netcoreapp3.1\statistics.exe
+D:\C#\gits\statistics\bin\Debug\netcoreapp3.1\statistics.deps.json
+D:\C#\gits\statistics\bin\Debug\netcoreapp3.1\statistics.runtimeconfig.json
+D:\C#\gits\statistics\bin\Debug\netcoreapp3.1\statistics.runtimeconfig.dev.json
+D:\C#\gits\statistics\bin\Debug\netcoreapp3.1\statistics.dll
+D:\C#\gits\statistics\bin\Debug\netcoreapp3.1\statistics.pdb
+D:\C#\gits\statistics\obj\Debug\netcoreapp3.1\statistics.csprojAssemblyReference.cache
+D:\C#\gits\statistics\obj\Debug\netcoreapp3.1\statistics.AssemblyInfoInputs.cache
+D:\C#\gits\statistics\obj\Debug\netcoreapp3.1\statistics.AssemblyInfo.cs
+D:\C#\gits\statistics\obj\Debug\netcoreapp3.1\statistics.dll
+D:\C#\gits\statistics\obj\Debug\netcoreapp3.1\statistics.pdb
